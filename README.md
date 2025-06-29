@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on `Open Source`
 - 🌱 I’m currently learning `Rust`, `Docker`
 - 💬 Ask me about `Web Dev`, `React`, `Node.js`
-- 📫 How to reach me: [jane.doe@example.com](mailto:jane.doe@example.com)
+- 📫 How to reach me: [muhammad.ahmad.86.18@gmail.com](mailto:muhammad.ahmad.86.18@gmail.com)
 
 ## 🚀 Skills
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
