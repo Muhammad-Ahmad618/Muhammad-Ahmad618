@@ -6,7 +6,7 @@
 - 💬 Ask me about `Web Dev`, `React`, `Node.js`
 - 📫 How to reach me: [muhammad.ahmad.86.18@gmail.com](mailto:muhammad.ahmad.86.18@gmail.com)
 
-## 🚀 Skills
+## 🚀 Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -22,7 +22,7 @@
 
 
 ## 📊 GitHub Stats
-![Jane's GitHub stats](https://github-readme-stats.vercel.app/api?username=jane-doe&show_icons=true&theme=radical)
+![Jane's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammad-Ahmad618&show_icons=true&theme=radical)
 
 ## 🔗 Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/muhammad-ahmad-184373193/)
