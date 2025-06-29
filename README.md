@@ -1,9 +1,9 @@
 # Hi there 👋, I'm Muhammad Ahmad
 
 ## 💼 About Me
-- 🔭 I’m currently working on `my portfolio`
-- 🌱 I’m currently learning `Rust`, `Docker`
-- 💬 Ask me about `Web Dev`, `React`, `Node.js`
+- 🔭 I’m currently working on my Portfolio Site
+- 🌱 I’m currently learning `🤖 AI/ML`
+- 💬 Ask me about `Web Dev`, `React`, `Tailwind CSS`, `UI/UX`
 - 📫 How to reach me: [muhammad.ahmad.86.18@gmail.com](mailto:muhammad.ahmad.86.18@gmail.com)
 
 ## 🚀 Tech Stack
