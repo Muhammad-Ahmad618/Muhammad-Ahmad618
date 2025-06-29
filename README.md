@@ -24,6 +24,9 @@
 ## 📊 GitHub Stats
 ![Jane's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammad-Ahmad618&show_icons=true&theme=radical)
 
+## 📦 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Ahmad618&layout=compact&theme=radical)
+
 ## 🔗 Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/muhammad-ahmad-184373193/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=github)](https://m-ahmad-portfolio-nine.vercel.app/)
