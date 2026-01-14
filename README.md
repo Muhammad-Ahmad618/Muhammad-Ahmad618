@@ -3,7 +3,7 @@
 ## 💼 About Me
 - 🔭 I’m currently working on my Portfolio Site
 - 🌱 I’m currently learning `🤖 AI/ML`
-- 💬 Ask me about `Web Dev`, `React`, `Tailwind CSS`, `UI/UX`
+- 💬 Ask me about `Web Dev`, `React`, `Tailwind CSS`, `UI/UX`, `Next JS`, `TypeScript`
 - 📫 How to reach me: [muhammad.ahmad.86.18@gmail.com](mailto:muhammad.ahmad.86.18@gmail.com)
 
 ## 🚀 Tech Stack
