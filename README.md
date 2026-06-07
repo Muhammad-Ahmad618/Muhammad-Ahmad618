@@ -45,10 +45,10 @@
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ## 📊 GitHub Stats
-![Muhammad Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammad-Ahmad618&show_icons=true&theme=radical)
+![Muhammad Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammad-Ahmad618&show_icons=true&theme=radical&cache_seconds=1800)
 
 ## 📦 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Ahmad618&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Ahmad618&layout=compact&theme=radical&cache_seconds=1800))
 
 ## 🔗 Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/muhammad-ahmad-184373193/)
